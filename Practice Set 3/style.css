@@ -1,0 +1,29 @@
+.1 {
+    height: 100px;
+    width: 100px;
+    background-color: green;
+    border-radius: 50%;
+}
+
+#navbar {
+    height: 60px;
+    background-color: black;
+    border: 2px solid white;
+    color: white;
+}
+
+a {
+    padding-right: 110px;
+    text-decoration: none;
+    color: white;
+}
+
+#logo {
+    font-size: 25px;
+    color: #f08804;
+}
+
+button {
+    color: yellow;
+    background-color: #f08804;
+}
