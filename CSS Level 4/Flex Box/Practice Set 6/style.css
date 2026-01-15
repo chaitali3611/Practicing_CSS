@@ -1,0 +1,30 @@
+
+.outer {
+    height: 400px;
+    width: 400px;
+    background-color: blue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.inner {
+    height: 400px;
+    width: 400px;
+    background-color: deeppink;
+}
+
+.navbar {
+    background-color: pink;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+a {
+    text-decoration: none;
+    color: red;
+}
+
+li {
+    list-style-type: none;
+}
